@@ -555,26 +555,17 @@ video {
   text-align: center;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
 }
 
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-
 .font-semibold {
   font-weight: 600;
-}
-
-.font-bold {
-  font-weight: 700;
-}
-
-.underline {
-  text-decoration-line: underline;
 }
 
 .no-underline {
